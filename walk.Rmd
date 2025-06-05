@@ -41,4 +41,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r}
 x = 2^3
 x
+plot(pressure)
 ```
