@@ -45,3 +45,12 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ```i can type
 ```
+
+``` r
+x = 2^3
+x
+```
+
+```
+## [1] 8
+```
