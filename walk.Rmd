@@ -36,10 +36,10 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-```i can type
+```i can type yyeee
 ```
 ```{r}
 x = 2^3
 x
-plot(pressure)d
+plot(pressure)
 ```
